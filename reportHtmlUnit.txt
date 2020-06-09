@@ -1,0 +1,11 @@
+Browser: HtmlUnit
+OS: Mac OS X
+===================================================
+Page URI: http://alex.academy/exe/signup/www/index.php
+Page Title: Welcome to Sign Up
+===================================================Page URI: http://alex.academy/exe/signup/www/confirmation.php
+Page Title: Confirmation
+First Name: Evgeniy
+Last Name: Yakush
+Email: evgeniy.yakush@gmail.com
+Phone: 805 705-2795

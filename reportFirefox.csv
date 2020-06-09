@@ -1,0 +1,9 @@
+#,Browser,Page,Field,isPresent,Value,Size,Location
+01,Firefox,index.php,First Name,true,Evgeniy,(343x38),(100x182)
+02,Firefox,index.php,Last Name,true,Yakush,(343x38),(525x182)
+03,Firefox,index.php,Email,true,evgeniy.yakush@gmail.com,(343x38),(100x262)
+04,Firefox,index.php,Phone,true,805 705-2795,(343x38),(525x262)
+05,Firefox,confirmation.php,First Name,true,Evgeniy,(102x38),(101x183)
+06,Firefox,confirmation.php,Last Name,true,Yakush,(94x38),(526x183)
+07,Firefox,confirmation.php,Email,true,evgeniy.yakush@gmail.com,(332x38),(101x267)
+08,Firefox,confirmation.php,Phone,true,805 705-2795,(170x38),(526x267)

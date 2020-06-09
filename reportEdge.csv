@@ -1,0 +1,9 @@
+#,Browser,Page,Field,isPresent,Value,Size,Location
+01,Edge,index.php,First Name,true,Evgeniy,(386x42),(434x181)
+02,Edge,index.php,Last Name,true,Yakush,(386x42),(859x181)
+03,Edge,index.php,Email,true,evgeniy.yakush@gmail.com,(386x42),(434x261)
+04,Edge,index.php,Phone,true,805 705-2795,(386x42),(859x261)
+05,Edge,confirmation.php,First Name,true,Evgeniy,(103x42),(441x182)
+06,Edge,confirmation.php,Last Name,true,Yakush,(95x42),(866x182)
+07,Edge,confirmation.php,Email,true,evgeniy.yakush@gmail.com,(332x42),(441x266)
+08,Edge,confirmation.php,Phone,true,805 705-2795,(170x42),(866x266)

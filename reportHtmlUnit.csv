@@ -1,0 +1,9 @@
+#,Browser,Page,Field,isPresent,Value
+01,HtmlUnit,index.php,First Name,true,Evgeniy
+02,HtmlUnit,index.php,Last Name,true,Yakush
+03,HtmlUnit,index.php,Email,true,evgeniy.yakush@gmail.com
+04,HtmlUnit,index.php,Phone,true,805 705-2795
+05,HtmlUnit,confirmation.php,First Name,true,Evgeniy
+06,HtmlUnit,confirmation.php,First Name,true,Yakush
+07,HtmlUnit,confirmation.php,First Name,true,evgeniy.yakush@gmail.com
+08,HtmlUnit,confirmation.php,First Name,true,805 705-2795
